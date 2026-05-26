@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filteruync",
+        "uuid": 2876125,
+        "checksum": "nvm8he"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
